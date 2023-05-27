@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart DB</string>
+    <string name="navigation_drawer_open"> Open navigation drawer </string>
+    <string name="navigation_drawer_close"> Close navigation drawer </string>
+    <string name="dashboard">Dashboard</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_telephone_no">Enter your telephone no</string>
+    <string name="add">ADD</string>
+    <string name="view">VIEW</string>
+    <string name="about">ABOUT</string>
+    <string name="view_data">View Data</string>
+</resources>
